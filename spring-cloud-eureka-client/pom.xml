@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>io.ymq.example</groupId>
-	<artifactId>eureka-client</artifactId>
+	<artifactId>spring-cloud-eureka-client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>eureka-client</name>
+	<name>spring-cloud-eureka-client</name>
 	<description>Eureka Client Demo project for Spring Boot</description>
 
 	<parent>
@@ -27,7 +27,7 @@
 
 	<dependencies>
 
-        <!-- spring boot eureka server -->
+        <!-- spring cloud eureka server -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-eureka-server</artifactId>

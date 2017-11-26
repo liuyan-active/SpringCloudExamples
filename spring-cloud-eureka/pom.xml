@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>io.ymq.example</groupId>
-	<artifactId>eureka</artifactId>
+	<artifactId>spring-cloud-eureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>eureka</name>
+	<name>spring-cloud-eureka</name>
 	<description>Eureka Demo project for Spring Boot</description>
 
 	<parent>
