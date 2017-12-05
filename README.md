@@ -1,8 +1,8 @@
 # spring-cloud-examples
 
-### spring-cloud-eureka
+### spring-cloud-eureka-server
 
-[SpringCloud 服务发现（Eureka）](http://www.ymq.io/2017/11/22/spring-cloud-eureka/)
+[SpringCloud 服务发现（Eureka Server）](http://www.ymq.io/2017/11/22/spring-cloud-eureka/)
 
 ### spring-cloud-eureka-client
 
