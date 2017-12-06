@@ -16,6 +16,9 @@
 
 [Spring Cloud（三） 服务提供者 Eureka + 服务消费者（rest + Ribbon）](http://www.ymq.io/2017/12/05/spring-cloud-ribbon-rest/)
 
+### spring-cloud-eureka-provider，spring-cloud-feign-consumer，spring-cloud-eureka-service
+
+[Spring Cloud（四） 服务提供者 Eureka + 服务消费者 Feign](http://www.ymq.io/2017/12/06/spring-cloud-feign/)
 # Contact
 
  - 作者：鹏磊  
