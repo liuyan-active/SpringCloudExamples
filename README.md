@@ -19,7 +19,14 @@
 ### spring-cloud-eureka-provider，spring-cloud-feign-consumer，spring-cloud-eureka-service
 
 [Spring Cloud（四） 服务提供者 Eureka + 服务消费者 Feign](http://www.ymq.io/2017/12/06/spring-cloud-feign/)
-# Contact
+
+### spring-cloud-hystrix
+`spring-cloud-ribbon-consumer-hystrix，spring-cloud-feign-consumer-hystrix，spring-cloud-ribbon-consumer-hystrix-dashboard`
+
+[Spring Cloud（五）断路器监控(Hystrix Dashboard)](http://www.ymq.io/2017/12/07/spring-cloud-hystrix-dashboard/)
+
+# Contact# Contact
+
 
  - 作者：鹏磊  
  - 出处：[http://www.ymq.io](http://www.ymq.io)  
