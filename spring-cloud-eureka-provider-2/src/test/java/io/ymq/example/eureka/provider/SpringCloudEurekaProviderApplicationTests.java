@@ -1,4 +1,4 @@
-package io.ymq.example.eureka;
+package io.ymq.example.eureka.provider;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class EurekaApplicationTests {
+public class SpringCloudEurekaProviderApplicationTests {
 
 	@Test
 	public void contextLoads() {
