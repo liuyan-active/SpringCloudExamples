@@ -25,8 +25,13 @@
 
 [Spring Cloud（五）断路器监控(Hystrix Dashboard)](http://www.ymq.io/2017/12/07/spring-cloud-hystrix-dashboard/)
 
-# Contact# Contact
+### spring-cloud-zuul-service
 
+`spring-cloud-eureka-service,spring-cloud-eureka-provider,spring-cloud-eureka-provider-2,spring-cloud-zuul-service`
+
+[Spring Cloud（六）服务网关 zuul 快速入门](http://www.ymq.io/2017/12/10/spring-cloud-zuul/)
+
+# Contact# Contact
 
  - 作者：鹏磊  
  - 出处：[http://www.ymq.io](http://www.ymq.io)  
