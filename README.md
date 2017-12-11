@@ -30,6 +30,11 @@
 
 [Spring Cloud（六）服务网关 zuul 快速入门](http://www.ymq.io/2017/12/10/spring-cloud-zuul/)
 
+- spring-cloud-zuul-filter
+
+[Spring Cloud（七）服务网关 Zuul Filter 使用](http://www.ymq.io/2017/12/11/spring-cloud-zuul-filter/)
+
+
 # Contact
 
  - 作者：鹏磊  
