@@ -30,7 +30,7 @@
 
 [Spring Cloud（六）服务网关 zuul 快速入门](http://www.ymq.io/2017/12/10/spring-cloud-zuul/)
 
-# Contact# Contact
+# Contact
 
  - 作者：鹏磊  
  - 出处：[http://www.ymq.io](http://www.ymq.io)  
