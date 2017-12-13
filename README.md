@@ -34,6 +34,10 @@
 
 [Spring Cloud（七）服务网关 Zuul Filter 使用](http://www.ymq.io/2017/12/11/spring-cloud-zuul-filter/)
 
+- spring-cloud-config-server,spring-cloud-config-client
+
+[Spring Cloud（八）高可用的分布式配置中心 Spring Cloud Config](http://www.ymq.io/2017/12/13/spring-cloud-config/)
+
 # Contact
 
  - 作者：鹏磊  
