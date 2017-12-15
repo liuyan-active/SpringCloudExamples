@@ -24,9 +24,7 @@
 
 [Spring Cloud（五）断路器监控(Hystrix Dashboard)](http://www.ymq.io/2017/12/07/spring-cloud-hystrix-dashboard/)
 
-- spring-cloud-zuul-service
-
-`spring-cloud-eureka-service,spring-cloud-eureka-provider,spring-cloud-eureka-provider-2,spring-cloud-zuul-service`
+- spring-cloud-zuul-service,spring-cloud-eureka-service,spring-cloud-eureka-provider,spring-cloud-eureka-provider-2
 
 [Spring Cloud（六）服务网关 zuul 快速入门](http://www.ymq.io/2017/12/10/spring-cloud-zuul/)
 
@@ -37,7 +35,6 @@
 - spring-cloud-config-server,spring-cloud-config-client
 
 [Spring Cloud（八）高可用的分布式配置中心 Spring Cloud Config](http://www.ymq.io/2017/12/13/spring-cloud-config/)
-
 
 - spring-cloud-config-server-eureka-provider,spring-cloud-config-client-consumer
 
