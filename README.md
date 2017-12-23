@@ -40,6 +40,9 @@
 
 [Spring Cloud（九）高可用的分布式配置中心 Spring Cloud Config 集成 Eureka 服务](http://www.ymq.io/2017/12/14/spring-cloud-config-eureka/)
 
+- spring-cloud-config-server-eureka-provider,spring-cloud-config-client-consumer
+
+[Spring Cloud（十）高可用的分布式配置中心 Spring Cloud Config 中使用 Refresh](http://www.ymq.io/2017/12/23/spring-cloud-config-eureka-refresh/)
 
 # Contact
 
