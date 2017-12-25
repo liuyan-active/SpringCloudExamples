@@ -1,4 +1,4 @@
-package io.ymq.example.eureka.client;
+package io.ymq.example.eureka.provider;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 @EnableEurekaClient
 @RestController
-public class EurekaClientApplication {
+public class EurekaProviderApplication {
 
     @RequestMapping("/")
     public String home() {
@@ -17,6 +17,6 @@ public class EurekaClientApplication {
     }
 
 	public static void main(String[] args) {
-		SpringApplication.run(EurekaClientApplication.class, args);
+		SpringApplication.run(EurekaProviderApplication.class, args);
 	}
 }
