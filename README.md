@@ -2,8 +2,6 @@
 
 - spring-cloud-eureka
 
-spring-cloud-eureka-provider,spring-cloud-eureka-service
-
 [Spring Cloud（一）服务的注册与发现（Eureka）](http://www.ymq.io/2017/11/22/spring-cloud-eureka/)
 
 - spring-cloud-consul-client
