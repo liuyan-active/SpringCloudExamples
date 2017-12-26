@@ -44,6 +44,12 @@
 
 [Spring Cloud（十）高可用的分布式配置中心 Spring Cloud Config 中使用 Refresh](http://www.ymq.io/2017/12/23/spring-cloud-config-eureka-refresh/)
 
+- spring-cloud-config-bus
+
+`spring-cloud-config-client-consumer-1，spring-cloud-config-client-consumer-2，spring-cloud-config-client-consumer-3，spring-cloud-eureka-service`
+
+[Spring Cloud（十一）高可用的分布式配置中心 Spring Cloud Bus 消息总线集成（RabbitMQ）](http://www.ymq.io/2017/12/24/spring-cloud-config-bus-rabbitMQ/)
+
 # Contact
 
  - 作者：鹏磊  
