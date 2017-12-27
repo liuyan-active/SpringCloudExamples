@@ -4,15 +4,15 @@
 
 [Spring Cloud（一）服务的注册与发现（Eureka）](http://www.ymq.io/2017/11/22/spring-cloud-eureka/)
 
-- spring-cloud-consul-client
+- spring-cloud-consul
 
 [Spring Cloud（二） Consul 服务治理实现](http://www.ymq.io/2017/11/26/spring-cloud-consul/)
 
-- spring-cloud-eureka-provider，spring-cloud-ribbon-consumer，spring-cloud-eureka-service
+- spring-cloud-eureka
 
 [Spring Cloud（三） 服务提供者 Eureka + 服务消费者（rest + Ribbon）](http://www.ymq.io/2017/12/05/spring-cloud-ribbon-rest/)
 
-- spring-cloud-eureka-provider，spring-cloud-feign-consumer，spring-cloud-eureka-service
+- spring-cloud-feign
 
 [Spring Cloud（四） 服务提供者 Eureka + 服务消费者 Feign](http://www.ymq.io/2017/12/06/spring-cloud-feign/)
 
