@@ -17,7 +17,7 @@ public class EurekaProviderApplication {
 
     @RequestMapping("/")
     public String home() {
-        return "Hello Zuul ,port:" + port;
+        return "Hello world ,port:" + port;
     }
 
     public static void main(String[] args) {
