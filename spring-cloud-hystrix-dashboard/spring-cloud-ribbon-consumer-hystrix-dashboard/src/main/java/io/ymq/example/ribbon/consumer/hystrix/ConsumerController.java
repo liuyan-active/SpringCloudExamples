@@ -26,7 +26,7 @@ public class ConsumerController {
     }
 
     public String defaultStores() {
-        return "feign + hystrix Dashboard ,提供者服务挂了";
+        return "Ribbon + hystrix Dashboard ,提供者服务挂了";
     }
 
 }
