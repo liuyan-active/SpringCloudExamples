@@ -32,7 +32,7 @@
 
 [Spring Cloud（八）高可用的分布式配置中心 Spring Cloud Config](http://www.ymq.io/2017/12/13/spring-cloud-config/)
 
-- spring-cloud-config-server-eureka-provider,spring-cloud-config-client-consumer
+- spring-cloud-config-eureka
 
 [Spring Cloud（九）高可用的分布式配置中心 Spring Cloud Config 集成 Eureka 服务](http://www.ymq.io/2017/12/14/spring-cloud-config-eureka/)
 
