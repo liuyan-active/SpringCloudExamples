@@ -16,7 +16,7 @@
 
   [Spring Cloud（四） 服务提供者 Eureka + 服务消费者 Feign](http://www.ymq.io/2017/12/06/spring-cloud-feign/)
 
-- [spring-cloud-hystrix](https://github.com/souyunku/spring-cloud-examples/tree/master/spring-cloud-hystrix)
+- [spring-cloud-hystrix-dashboard](https://github.com/souyunku/spring-cloud-examples/tree/master/spring-cloud-hystrix-dashboard)
 
   [Spring Cloud（五）断路器监控(Hystrix Dashboard)](http://www.ymq.io/2017/12/07/spring-cloud-hystrix-dashboard/)
 
