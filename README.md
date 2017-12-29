@@ -1,4 +1,4 @@
-# Spring Cloudx 简单教程
+# Spring Cloud 简单教程
 
 - [spring-cloud-eureka](https://github.com/souyunku/spring-cloud-examples/tree/master/spring-cloud-eureka)
 
