@@ -30,7 +30,7 @@ public class TokenFilter extends ZuulFilter {
 
     @Override
     public boolean shouldFilter() {
-        return true;// 是否执行该过滤器，此处为true，说明需要过滤
+        return true; // 是否执行该过滤器，此处为true，说明需要过滤
     }
 
     @Override

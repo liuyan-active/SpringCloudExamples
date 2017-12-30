@@ -19,8 +19,8 @@ public class ZuulFilterApplication {
         return new PasswordFilter();
     }
 
-
     public static void main(String[] args) {
         SpringApplication.run(ZuulFilterApplication.class, args);
     }
+
 }
