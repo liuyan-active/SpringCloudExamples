@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>spring-cloud-eureka-provider</name>
-    <description>Eureka Client Demo project for Spring Boot</description>
+    <description>Eureka Provider Demo project for Spring Boot</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
