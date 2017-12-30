@@ -54,6 +54,13 @@
 
   [Spring Cloud（十一）高可用的分布式配置中心 Spring Cloud Bus 消息总线集成（RabbitMQ）](http://www.ymq.io/2017/12/24/spring-cloud-config-bus-rabbitMQ/)
 
+# 项目开原地址
+
+**GitHub：**[https://github.com/souyunku/spring-cloud-examples](https://github.com/souyunku/spring-cloud-examples)
+
+**码云：**[https://gitee.com/souyunku/spring-cloud-examples](https://gitee.com/souyunku/spring-cloud-examples)
+
+
 # Contact
 
  - 作者：鹏磊  
