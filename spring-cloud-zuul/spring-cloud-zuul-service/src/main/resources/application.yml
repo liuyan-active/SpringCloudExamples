@@ -21,4 +21,3 @@ eureka:
 #    api:
 #        path: /**
 #        serviceId: eureka-provider
-
