@@ -21,4 +21,5 @@ public class ConsumerController {
     public String hello() {
         return restTemplate.getForEntity("http://eureka-provider/", String.class).getBody();
     }
+
 }

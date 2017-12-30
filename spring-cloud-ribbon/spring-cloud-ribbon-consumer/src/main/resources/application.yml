@@ -7,5 +7,6 @@ spring:
   application:
     name: ribbon-consumer
 
+
 server:
   port: 9000
