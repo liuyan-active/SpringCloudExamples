@@ -24,4 +24,5 @@ public class RibbonConsumerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RibbonConsumerApplication.class, args);
 	}
+
 }

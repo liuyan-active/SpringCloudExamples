@@ -28,5 +28,4 @@ public class ConsumerController {
         return "Ribbon + hystrix ,提供者服务挂了";
     }
 
-
 }
