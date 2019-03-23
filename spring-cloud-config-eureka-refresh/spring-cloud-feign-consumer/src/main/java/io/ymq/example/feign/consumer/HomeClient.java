@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.GetMapping;
  * @create 2017-12-06 15:13
  **/
 @FeignClient("eureka-provider")
-public interface  HomeClient {
+public interface HomeClient {
 
     @GetMapping("/")
     String consumer();

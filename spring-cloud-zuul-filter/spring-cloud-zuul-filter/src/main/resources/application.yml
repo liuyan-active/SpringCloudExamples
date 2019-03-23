@@ -8,8 +8,8 @@ server:
 zuul:
   routes:
     api:
-        path: /**
-        serviceId: eureka-provider
+      path: /**
+      serviceId: eureka-provider
 
 eureka:
   client:

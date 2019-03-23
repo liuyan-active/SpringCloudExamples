@@ -11,13 +11,15 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class EurekaProviderApplication {
 
-    @RequestMapping("/")
-    public String home() {
-        return "Hello world";
+    public static void main(String[] args) {
+
+        SpringApplication.run(EurekaProviderApplication.class, args);
     }
 
-	public static void main(String[] args) {
-		SpringApplication.run(EurekaProviderApplication.class, args);
-	}
+    @RequestMapping("/")
+    public String home() {
+
+        return "Hello world";
+    }
 
 }

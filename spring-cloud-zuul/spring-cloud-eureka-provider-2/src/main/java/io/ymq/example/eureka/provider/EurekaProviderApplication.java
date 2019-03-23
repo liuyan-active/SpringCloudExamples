@@ -7,6 +7,9 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+/**
+ * @author liuyan
+ */
 @SpringBootApplication
 @EnableEurekaClient
 @RestController
@@ -15,13 +18,15 @@ public class EurekaProviderApplication {
     @Value("${server.port}")
     String port;
 
-    @RequestMapping("/")
-    public String Hello() {
-        return "Hello world ,port:" + port;
+    public static void main(String[] args) {
+
+        SpringApplication.run(EurekaProviderApplication.class, args);
     }
 
-    public static void main(String[] args) {
-        SpringApplication.run(EurekaProviderApplication.class, args);
+    @RequestMapping("/")
+    public String Hello() {
+
+        return "Hello world ,port:" + port;
     }
 
 }

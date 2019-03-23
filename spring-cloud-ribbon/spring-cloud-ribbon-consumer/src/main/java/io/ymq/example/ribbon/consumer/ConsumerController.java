@@ -19,6 +19,7 @@ public class ConsumerController {
 
     @GetMapping(value = "/hello")
     public String hello() {
+
         return restTemplate.getForEntity("http://eureka-provider/", String.class).getBody();
     }
 

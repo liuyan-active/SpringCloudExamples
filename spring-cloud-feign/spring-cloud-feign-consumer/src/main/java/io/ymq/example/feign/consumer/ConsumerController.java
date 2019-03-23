@@ -18,6 +18,7 @@ public class ConsumerController {
 
     @GetMapping(value = "/hello")
     public String hello() {
-        return  homeClient.consumer();
+
+        return homeClient.consumer();
     }
 }

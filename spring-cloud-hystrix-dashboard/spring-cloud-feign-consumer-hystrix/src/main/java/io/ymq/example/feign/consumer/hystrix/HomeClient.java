@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.GetMapping;
  * @author yanpenglei
  * @create 2017-12-06 15:13
  **/
-@FeignClient(value ="eureka-provider",fallbackFactory = HystrixClientFallbackFactory.class)
-public interface  HomeClient {
+@FeignClient(value = "eureka-provider", fallbackFactory = HystrixClientFallbackFactory.class)
+public interface HomeClient {
 
     @GetMapping("/")
     String consumer();

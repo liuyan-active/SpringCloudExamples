@@ -9,20 +9,25 @@ import org.springframework.cloud.netflix.hystrix.dashboard.EnableHystrixDashboar
 import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
+/**
+ * @author liuyan
+ */
 @EnableHystrix
 @EnableDiscoveryClient
 @EnableHystrixDashboard
 @SpringBootApplication
 public class RibbonConsumerApplication {
 
+    public static void main(String[] args) {
+
+        SpringApplication.run(RibbonConsumerApplication.class, args);
+    }
+
     @LoadBalanced
     @Bean
     RestTemplate restTemplate() {
+
         return new RestTemplate();
     }
-
-	public static void main(String[] args) {
-		SpringApplication.run(RibbonConsumerApplication.class, args);
-	}
 
 }

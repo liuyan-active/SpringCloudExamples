@@ -11,13 +11,15 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class ConsulApplication {
 
-    @RequestMapping("/")
-    public String home() {
-        return "Hello world";
+    public static void main(String[] args) {
+
+        SpringApplication.run(ConsulApplication.class, args);
     }
 
-	public static void main(String[] args) {
-		SpringApplication.run(ConsulApplication.class, args);
-	}
+    @RequestMapping("/")
+    public String home() {
+
+        return "Hello world";
+    }
 
 }

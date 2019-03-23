@@ -13,12 +13,14 @@ public class ConfigClientApplication {
     @Value("${content}")
     String content;
 
-    @RequestMapping("/")
-    public String home() {
-        return "content:" + content;
+    public static void main(String[] args) {
+
+        SpringApplication.run(ConfigClientApplication.class, args);
     }
 
-    public static void main(String[] args) {
-        SpringApplication.run(ConfigClientApplication.class, args);
+    @RequestMapping("/")
+    public String home() {
+
+        return "content:" + content;
     }
 }

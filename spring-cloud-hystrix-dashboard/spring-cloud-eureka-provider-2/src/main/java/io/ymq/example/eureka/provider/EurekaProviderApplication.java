@@ -15,13 +15,15 @@ public class EurekaProviderApplication {
     @Value("${server.port}")
     String port;
 
-    @RequestMapping("/")
-    public String Hello() {
-        return "Hello world ,port:" + port;
+    public static void main(String[] args) {
+
+        SpringApplication.run(EurekaProviderApplication.class, args);
     }
 
-    public static void main(String[] args) {
-        SpringApplication.run(EurekaProviderApplication.class, args);
+    @RequestMapping("/")
+    public String Hello() {
+
+        return "Hello world ,port:" + port;
     }
 
 }
